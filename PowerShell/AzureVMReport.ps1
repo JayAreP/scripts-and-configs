@@ -7,6 +7,9 @@ param(
     [string] $outputFile
 )
 
+# 
+#
+
 <#
     .SYNOPSIS 
     Generates an Azure VM report. 
